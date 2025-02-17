@@ -1,0 +1,10 @@
+^D:\TEST\PROGRAMMING\DATA-STRUCTURE-VISUALIZATION\BUILD\CMAKEFILES\0E1539AE708249C7F9FF3ACB83D21B74\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/test/Programming/Data-structure-Visualization -BD:/test/Programming/Data-structure-Visualization/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/test/Programming/Data-structure-Visualization/build/Datavisualizer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
