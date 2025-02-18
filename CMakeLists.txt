@@ -1,17 +1,22 @@
-cmake_minimum_required (VERSION 3.16)
+cmake_minimum_required(VERSION 3.16)
 
-project("Datavisualizer")
-
-# Automatically pick up files added to src
-file(GLOB_RECURSE HEADER_FILES ${CMAKE_CURRENT_SOURCE_DIR}/src/*.h)
-file(GLOB_RECURSE SOURCE_FILES ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
+# Đặt tên cho project
+project(DATAVISUALIZER)
 
 
-file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/resources
-     DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
 
-add_executable(${PROJECT_NAME} ${HEADER_FILES} ${SOURCE_FILES})
+
+# Thêm tất cả file .cpp trong thư mục src/
+file(GLOB_RECURSE SOURCES src/*.cpp)
+
+# Thêm tất cả file .h trong thư mục inc/
+include_directories(inc/)
+
+# Tạo file thực thi từ các source file
+add_executable(${PROJECT_NAME} ${SOURCES})
 
 add_subdirectory("raylib")
+target_link_libraries(${PROJECT_NAME} raylib)
 
-target_link_libraries(${PROJECT_NAME} PUBLIC raylib)
+# Copy thư mục resources vào build để giữ hình ảnh, âm thanh...
+file(COPY ${CMAKE_SOURCE_DIR}/resources DESTINATION ${CMAKE_BINARY_DIR})
