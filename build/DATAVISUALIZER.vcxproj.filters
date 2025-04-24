@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\AVL\AVL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\AVL\AVLArrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\AVL\AVLNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\AVL\AVLPanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\AVL\AVLState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\Arrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\CodeBlock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\ColorThemeManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\Console.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\Panel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\PlayBackControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\Resources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\Slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\GUI\inputBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MST\Animation\GraphInputPanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MST\Animation\GraphOperation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MST\Animation\GraphPresentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MST\Animation\GraphSetofOperation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MST\Graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MST\GraphEdge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MST\GraphNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MST\GraphVisual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\MenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\SLL\SLLArrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\SLL\SLLNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\SLL\SLLPanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\SLL\SLLState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\SLL\SinglyLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\ShortestPath\STArrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\ShortestPath\STPanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\ShortestPath\ShortestPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\ShortestPath\ShortestPathNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\ShortestPath\ShortestPathState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\hashtable\HashTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\hashtable\HashTableVisual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\hashtable\Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\hashtable\animation\Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\hashtable\animation\Presentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\hashtable\animation\SetofAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\tinyfiledialogs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\tree234\Animation\InputPanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\tree234\Animation\Operation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\tree234\Animation\SetofOperation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\tree234\Animation\TreePresentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\tree234\Tree234Visual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\test\Programming\Data-structure-Visualization\src\tree234\TreeNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\test\Programming\Data-structure-Visualization\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1148E9CD-8247-3E96-8D67-623A23105496}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
